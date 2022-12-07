@@ -1,0 +1,11 @@
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/danilo-excluir
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/appsettings.json
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/danilo-excluir.dll
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/danilo-excluir.deps.json
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/danilo-excluir.runtimeconfig.json
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/danilo-excluir.pdb
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/anjos/danilo-excluir/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
